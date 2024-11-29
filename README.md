@@ -1,2 +1,2 @@
-# AnomalyDetection
-Detecçao de Anomalias(Séries Temporais)
+# TimeSeries
+Previsão de Séries Temporais com redes neurais recorrentes
